@@ -1,0 +1,7 @@
+﻿window
+door
+car
+pen
+heart
+trail
+map
